@@ -3,6 +3,7 @@
 更新中
 
 B站测评视频：
+
 ![](https://github.com/Xmingbai/ERYING-13900H-ITX-Hachintosh/blob/main/About.png)
 
 ===========================================================================
