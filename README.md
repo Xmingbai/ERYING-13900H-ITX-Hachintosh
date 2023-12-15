@@ -2,7 +2,7 @@
 
 更新中
 
-B站测评视频：
+B站测评视频：https://www.bilibili.com/video/BV1qe411k77i
 
 ![](https://github.com/Xmingbai/ERYING-13900H-ITX-Hachintosh/blob/main/About.png)
 
